@@ -1,8 +1,251 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://tv.naver.com/jtbc.singagain2/clips</id>
-    <title>JTBC 싱어게인2 ─ 네이버TV</title>
-    <updated>2022-10-15T05:46:51.058Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://tv.naver.com/jtbc.singagain2/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>JTBC 싱어게인2 ─ 네이버TV</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 15 Oct 2022 06:31:39 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[행복 시작! 대망의 파이널 라운드 TOP3 시상식(*ˊᵕˋo💐o | JTBC 220228 방송]]></title>
+            <link>https://tv.naver.com/v/25538187</link>
+            <guid>https://tv.naver.com/v/25538187</guid>
+            <pubDate>Sat, 15 Oct 2022 06:31:33 GMT</pubDate>
+            <content:encoded><![CDATA[1:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220308_287/ZTW3h_1646721755770Tjhuw_JPEG/20220308_153120_976_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[무엇보다 값졌던 〈싱어게인2〉 73팀의 도전 ＂다시 '나'를 부르다＂ | JTBC 220307 방송]]></title>
+            <link>https://tv.naver.com/v/25520224</link>
+            <guid>https://tv.naver.com/v/25520224</guid>
+            <pubDate>Sat, 15 Oct 2022 06:31:33 GMT</pubDate>
+            <content:encoded><![CDATA[2:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220307_234/y4v3R_1646645617426lxKQD_JPEG/20220307_181637_236_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[살이 쪼-옥 빠진 김기태의 다이어트 비결 👉 우는 아들 달래기(?) 🤣 | JTBC 220307 방송]]></title>
+            <link>https://tv.naver.com/v/25520191</link>
+            <guid>https://tv.naver.com/v/25520191</guid>
+            <pubDate>Sat, 15 Oct 2022 06:31:33 GMT</pubDate>
+            <content:encoded><![CDATA[2:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220307_138/PgssT_1646645552452LUEFo_JPEG/20220307_181445_488_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김기태의 남다른 허스키 보이스🔊 ※최근 맑아진 편입니다^_^;;※ | JTBC 220307 방송]]></title>
+            <link>https://tv.naver.com/v/25520062</link>
+            <guid>https://tv.naver.com/v/25520062</guid>
+            <pubDate>Sat, 15 Oct 2022 06:31:33 GMT</pubDate>
+            <content:encoded><![CDATA[3:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220307_21/4Zvo6_1646645264747RAnLf_JPEG/20220307_181244_347_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[고난 빼면 시체… 👉 김소연에게 큰 부담이 되었던 대진운 😭 | JTBC 220307 방송]]></title>
+            <link>https://tv.naver.com/v/25520061</link>
+            <guid>https://tv.naver.com/v/25520061</guid>
+            <pubDate>Sat, 15 Oct 2022 06:31:33 GMT</pubDate>
+            <content:encoded><![CDATA[3:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220307_122/RqqOp_1646645263187FEsEB_JPEG/20220307_181010_611_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한 소절, 한 소절마다 진심이 담겨있는 김소연의 노래  | JTBC 220307 방송]]></title>
+            <link>https://tv.naver.com/v/25520060</link>
+            <guid>https://tv.naver.com/v/25520060</guid>
+            <pubDate>Sat, 15 Oct 2022 06:31:33 GMT</pubDate>
+            <content:encoded><![CDATA[2:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220307_118/CkBLe_1646645261546UYRsg_JPEG/20220307_180805_870_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤성이 라운드가 올라갈수록 달라진 남편의 태도?! ㅋㅋ | JTBC 220307 방송]]></title>
+            <link>https://tv.naver.com/v/25519961</link>
+            <guid>https://tv.naver.com/v/25519961</guid>
+            <pubDate>Sat, 15 Oct 2022 06:31:33 GMT</pubDate>
+            <content:encoded><![CDATA[2:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220307_156/rnFQF_1646644953269Vl1ra_JPEG/20220307_180623_102_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[모두를 자리에서 일어나게 한 그 노래, 윤성의 〈일어나〉 | JTBC 220307 방송]]></title>
+            <link>https://tv.naver.com/v/25519871</link>
+            <guid>https://tv.naver.com/v/25519871</guid>
+            <pubDate>Sat, 15 Oct 2022 06:31:33 GMT</pubDate>
+            <content:encoded><![CDATA[2:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220307_203/4Ikv7_1646644711638lGH10_JPEG/20220307_180226_969_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오로지 '가수 박현규'란 이름으로 오를 수 있었던 무대🙊 | JTBC 220307 방송]]></title>
+            <link>https://tv.naver.com/v/25519749</link>
+            <guid>https://tv.naver.com/v/25519749</guid>
+            <pubDate>Sat, 15 Oct 2022 06:31:33 GMT</pubDate>
+            <content:encoded><![CDATA[3:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220307_3/zy3C5_1646644362356J2LYF_JPEG/20220307_175847_697_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[꽉 잡아 현규..✊ 이해리 슈퍼 어게인으로 최종 4위까지 ㄷㄷ | JTBC 220307 방송]]></title>
+            <link>https://tv.naver.com/v/25519854</link>
+            <guid>https://tv.naver.com/v/25519854</guid>
+            <pubDate>Sat, 15 Oct 2022 06:31:33 GMT</pubDate>
+            <content:encoded><![CDATA[2:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220307_221/l2IBQ_16466446599725euJf_JPEG/20220307_175433_808_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가왕의 하관이 탄생한 순간! 보컬 타짜, 박현규 ＜오르막길＞ | JTBC 220307 방송]]></title>
+            <link>https://tv.naver.com/v/25519748</link>
+            <guid>https://tv.naver.com/v/25519748</guid>
+            <pubDate>Sat, 15 Oct 2022 06:31:33 GMT</pubDate>
+            <content:encoded><![CDATA[2:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220307_290/KcFsJ_1646644360365YxOIj_JPEG/20220307_175207_161_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[모두의 예상을 뛰어넘은 무대 👍 이주혁 ＜라일락이 질 때＞ | JTBC 220307 방송]]></title>
+            <link>https://tv.naver.com/v/25519747</link>
+            <guid>https://tv.naver.com/v/25519747</guid>
+            <pubDate>Sat, 15 Oct 2022 06:31:33 GMT</pubDate>
+            <content:encoded><![CDATA[3:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220307_280/AqzMb_1646644358992HgCfw_JPEG/20220307_174925_122_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[당찬 포부에 그렇지 못한 담력을 가진 '음색 요정' 이주혁 😚 | JTBC 220307 방송]]></title>
+            <link>https://tv.naver.com/v/25519623</link>
+            <guid>https://tv.naver.com/v/25519623</guid>
+            <pubDate>Sat, 15 Oct 2022 06:31:33 GMT</pubDate>
+            <content:encoded><![CDATA[3:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220307_45/YdHWO_1646644054362yqSCu_JPEG/20220307_174659_637_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이선희가 PICK한 무대 👉 태생 아티스트, 신유미의 ＜그건 너＞ | JTBC 220307 방송]]></title>
+            <link>https://tv.naver.com/v/25519667</link>
+            <guid>https://tv.naver.com/v/25519667</guid>
+            <pubDate>Sat, 15 Oct 2022 06:31:33 GMT</pubDate>
+            <content:encoded><![CDATA[1:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220307_8/ZNicQ_1646644124028h4pRK_JPEG/20220307_174433_389_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신유미라는 가수를 완벽히! 각인시킨 ＜How You Like That＞ | JTBC 220307 방송]]></title>
+            <link>https://tv.naver.com/v/25519491</link>
+            <guid>https://tv.naver.com/v/25519491</guid>
+            <pubDate>Sat, 15 Oct 2022 06:31:33 GMT</pubDate>
+            <content:encoded><![CDATA[3:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220307_6/SRXHz_1646643753511Wr62H_JPEG/20220307_173918_012_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[역시.. 싱어게인✌ 개성 넘치는 역대급 무대들 대거 탄생! | JTBC 220307 방송]]></title>
+            <link>https://tv.naver.com/v/25519217</link>
+            <guid>https://tv.naver.com/v/25519217</guid>
+            <pubDate>Sat, 15 Oct 2022 06:31:33 GMT</pubDate>
+            <content:encoded><![CDATA[2:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220307_80/ip0nH_1646643156374fLnao_JPEG/20220307_173634_284_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[티저] 다양한 매력의 싱어게인2 TOP 6와 함께하는🎤 〈유명가수전〉 4월 첫 방송!]]></title>
+            <link>https://tv.naver.com/v/25392667</link>
+            <guid>https://tv.naver.com/v/25392667</guid>
+            <pubDate>Sat, 15 Oct 2022 06:31:33 GMT</pubDate>
+            <content:encoded><![CDATA[0:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220301_182/QwZmZ_16460623589813im3w_JPEG/20220301_002026_818_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[싱어게인2 보너스 트랙 예고편 - 본격 하드 털이! TOP 6의 모든 순간을 공개합니다~]]></title>
+            <link>https://tv.naver.com/v/25392666</link>
+            <guid>https://tv.naver.com/v/25392666</guid>
+            <pubDate>Sat, 15 Oct 2022 06:31:33 GMT</pubDate>
+            <content:encoded><![CDATA[0:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220301_102/6hujT_1646062357373by5Lr_JPEG/20220301_001953_987_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[〈싱어게인2〉 우승자 김기태의 소감 ＂모두 다 힘내시길 바랍니다👊🏻＂ | JTBC 220228 방송]]></title>
+            <link>https://tv.naver.com/v/25392564</link>
+            <guid>https://tv.naver.com/v/25392564</guid>
+            <pubDate>Sat, 15 Oct 2022 06:31:33 GMT</pubDate>
+            <content:encoded><![CDATA[1:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220301_28/gA3oO_1646062059877ownY3_JPEG/20220301_001611_482_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[〈싱어게인2〉 파이널 라운드, 최종 2위 김소연 | JTBC 220228 방송]]></title>
+            <link>https://tv.naver.com/v/25392509</link>
+            <guid>https://tv.naver.com/v/25392509</guid>
+            <pubDate>Sat, 15 Oct 2022 06:31:33 GMT</pubDate>
+            <content:encoded><![CDATA[1:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220301_45/szLOt_1646063319980j3fmz_JPEG/20220301_003756_344_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[〈싱어게인2〉 파이널 라운드, 최종 1위 김기태 | JTBC 220228 방송]]></title>
+            <link>https://tv.naver.com/v/25392508</link>
+            <guid>https://tv.naver.com/v/25392508</guid>
+            <pubDate>Sat, 15 Oct 2022 06:31:33 GMT</pubDate>
+            <content:encoded><![CDATA[1:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220301_189/0HX39_1646061810893On5Mk_JPEG/20220301_001311_330_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[〈싱어게인2〉 파이널 라운드, 최종 3위 윤성 | JTBC 220228 방송]]></title>
+            <link>https://tv.naver.com/v/25392510</link>
+            <guid>https://tv.naver.com/v/25392510</guid>
+            <pubDate>Sat, 15 Oct 2022 06:31:33 GMT</pubDate>
+            <content:encoded><![CDATA[1:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220301_126/dNkdi_1646061814680PFxKG_JPEG/20220301_001158_803_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[결과 발표] 〈싱어게인2〉 파이널 라운드 TOP 4-6위 발표! | JTBC 220228 방송]]></title>
+            <link>https://tv.naver.com/v/25392563</link>
+            <guid>https://tv.naver.com/v/25392563</guid>
+            <pubDate>Sat, 15 Oct 2022 06:31:33 GMT</pubDate>
+            <content:encoded><![CDATA[2:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220301_280/Fz6kx_1646062056602sIsb5_JPEG/20220301_001015_315_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[〈싱어게인1〉 TOP3 인터뷰 👉 ＂〈싱어게인〉 1에 나와서 다행이다…＂ 🤣 | JTBC 220228 방송]]></title>
+            <link>https://tv.naver.com/v/25392159</link>
+            <guid>https://tv.naver.com/v/25392159</guid>
+            <pubDate>Sat, 15 Oct 2022 06:31:33 GMT</pubDate>
+            <content:encoded><![CDATA[2:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220228_41/qZPl2_1646059959429YdiB2_JPEG/20220228_234030_164_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[스페셜 무대] 꿈을 가진 이들에게✉️ 이승윤x신유미x박현규 〈흩어진 꿈을 모아서〉♬ | JTBC 220228 방송]]></title>
+            <link>https://tv.naver.com/v/25392220</link>
+            <guid>https://tv.naver.com/v/25392220</guid>
+            <pubDate>Sat, 15 Oct 2022 06:31:33 GMT</pubDate>
+            <content:encoded><![CDATA[4:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220228_110/O66YR_16460602525631xKne_JPEG/20220228_233501_912_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[스페셜 무대] (텐션 UP🔥) '흥 100%' 무대↗ 정홍일x윤성x김기태 〈해야〉♬ | JTBC 220228 방송]]></title>
+            <link>https://tv.naver.com/v/25392105</link>
+            <guid>https://tv.naver.com/v/25392105</guid>
+            <pubDate>Sat, 15 Oct 2022 06:31:33 GMT</pubDate>
+            <content:encoded><![CDATA[4:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220228_99/xjrwW_16460597210278Fxyt_JPEG/20220228_233125_439_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[스페셜 무대] 이 조합 찬성이요✋🏻 이무진x김소연x이주혁 〈신호등〉♬ | JTBC 220228 방송]]></title>
+            <link>https://tv.naver.com/v/25391849</link>
+            <guid>https://tv.naver.com/v/25391849</guid>
+            <pubDate>Sat, 15 Oct 2022 06:31:33 GMT</pubDate>
+            <content:encoded><![CDATA[3:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220228_190/U6gy6_1646059124670f5u5j_JPEG/20220228_233149_691_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[파이널 심사평] 정통 하드락 보컬리스트 윤성을 진심으로 응원하는 윤도현! | JTBC 220228 방송]]></title>
+            <link>https://tv.naver.com/v/25391759</link>
+            <guid>https://tv.naver.com/v/25391759</guid>
+            <pubDate>Sat, 15 Oct 2022 06:31:33 GMT</pubDate>
+            <content:encoded><![CDATA[2:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220228_146/3bK7h_1646058166128Kr2Cj_JPEG/20220228_230626_543_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[파이널 무대] 귀 열어, 美친 고음 들어간다🔥 윤성의 〈그대 앞에 난 촛불이어라〉♬ | JTBC 220228 방송]]></title>
+            <link>https://tv.naver.com/v/25391776</link>
+            <guid>https://tv.naver.com/v/25391776</guid>
+            <pubDate>Sat, 15 Oct 2022 06:31:33 GMT</pubDate>
+            <content:encoded><![CDATA[4:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220228_213/l1QkF_1646058215233Jpmcr_JPEG/20220228_231327_060_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤성의 기약 없는 무명 생활 중… 벼랑 끝에서 만나게 된 ＜싱어게인＞ | JTBC 220228 방송]]></title>
+            <link>https://tv.naver.com/v/25391545</link>
+            <guid>https://tv.naver.com/v/25391545</guid>
+            <pubDate>Sat, 15 Oct 2022 06:31:33 GMT</pubDate>
+            <content:encoded><![CDATA[3:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220228_276/ps6Mt_1646057269212cdAut_JPEG/20220228_225711_810_1.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
